@@ -39,7 +39,7 @@ global.prems = ['972529277314'],
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de The-LoliBot-MD, Ejemplo: es | en | pt...
+global.lenguajeGB = en  //Idioma de The-LoliBot-MD, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
