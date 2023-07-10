@@ -113,7 +113,7 @@ global.vs = '1.4.9'
 global.lb = '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
 global.yt = 'https://www.youtube.com/@TheLoliBot-MD'
 global.ig = 'https://www.tiktok.com/@thelolibot_md'
-global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
+global.md = 'https://github.com/cuentasecundariaa/Bot'
 global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
 global.nna = 'https://chat.whatsapp.com/JESaesjOEcB6wnGX0QYT9o' //Actualización, información sobre el bot
